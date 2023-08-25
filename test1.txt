@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0804-4810
+
+ Directory of C:\Users\sravan kumar\OneDrive\Desktop\MyGitProject
+
+25-08-2023  12:45    <DIR>          .
+25-08-2023  12:39    <DIR>          ..
+25-08-2023  12:45                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  98,488,258,560 bytes free
